@@ -1,0 +1,8 @@
+{
+  "require": {
+    "filp/whoops": "^2.15"
+  },
+  "require-dev": {
+    "maximebf/debugbar": "^2.2"
+  }
+}
